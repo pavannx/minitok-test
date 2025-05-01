@@ -4,13 +4,15 @@
             "*"
         ],
         "responseHeader": [
-            "Content-Type"
+            "Content-Type",
+            "Authorization"
         ],
         "method": [
             "GET",
             "POST",
             "PUT",
-            "DELETE"
+            "DELETE",
+            "OPTIONS"
         ],
         "maxAgeSeconds": 3600
     }
