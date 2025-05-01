@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "669532145079",
+    "project_id": "test-minitok",
+    "storage_bucket": "test-minitok.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669532145079:android:4105657a7b26fcd6799432",
+        "android_client_info": {
+          "package_name": "com.example.minitok"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsVE85BeV-rdC30x3oJ4eJkqZeraWTYEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669532145079:android:e8ea92f59de9805d799432",
+        "android_client_info": {
+          "package_name": "com.test.minitok"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsVE85BeV-rdC30x3oJ4eJkqZeraWTYEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
